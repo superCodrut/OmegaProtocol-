@@ -1,12 +1,1 @@
-1b 
-b 
-b 
-b 
-b 
-b 
-b 
-b 
-b 
-b 
-b 
-b 
+b   :: Start with 'b' in the new file
